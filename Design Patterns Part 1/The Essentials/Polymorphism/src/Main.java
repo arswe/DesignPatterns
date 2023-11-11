@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        drownUIControl(new TextBox());
+        drownUIControl(new CheckBox());
     }
 
     public static void drownUIControl(UIControl control) {
