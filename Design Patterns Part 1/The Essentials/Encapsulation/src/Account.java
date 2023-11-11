@@ -8,6 +8,16 @@ public class Account {
         balance += amount;
     }
 
+    public void withdraw(float amount) {
+        if (amount < 0)
+            throw new IllegalArgumentException("Amount cannot be negative.");
+
+        if (balance - amount < 0)
+            throw new IllegalArgumentException("Insufficient funds.");
+
+        balance -= amount;
+    }
+
     public void setBalance(float balance) {
         if (balance < 0)
             throw new IllegalArgumentException("Balance cannot be negative.");
