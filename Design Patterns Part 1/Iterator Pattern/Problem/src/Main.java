@@ -5,7 +5,9 @@ public class Main {
         BrowseHistory.push("b");
         BrowseHistory.push("c");
 
-        for (var i = 0; i < BrowseHistory.getUrls().size(); i++)
-            System.out.println(BrowseHistory.getUrls().get(i));
+        var iterator = BrowseHistory.new ListIterator(BrowseHistory);
+        while (iterator.hasNext()) {
+            System.out.println(iterator.next());
+        }
     }
 }
