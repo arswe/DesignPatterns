@@ -1,7 +1,5 @@
 public interface Iterator {
     boolean hasNext();
-
-    Object current();
-
-    void next();
+    String current();
+    boolean next();
 }

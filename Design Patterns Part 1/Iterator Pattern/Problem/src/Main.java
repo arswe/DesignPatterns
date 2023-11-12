@@ -5,7 +5,7 @@ public class Main {
         BrowseHistory.push("b");
         BrowseHistory.push("c");
 
-        var iterator = BrowseHistory.new ListIterator(BrowseHistory);
+        Iterator iterator = (Iterator) BrowseHistory.createIterator();
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
