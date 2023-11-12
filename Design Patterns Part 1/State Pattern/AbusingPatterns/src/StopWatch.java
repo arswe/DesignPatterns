@@ -1,13 +1,15 @@
 public class StopWatch {
-    private boolean isRunning;
+    private State currentState = new StoppedState(this);
 
     public void click() {
-        if (isRunning) {
-            isRunning = false;
-            System.out.println("Stop");
-        } else {
-            isRunning = true;
-            System.out.println("Start");
-        }
+        currentState.click();
+    }
+
+    public State getCurrentState() {
+        return currentState;
+    }
+
+    public void setCurrentState(State currentState) {
+        this.currentState = currentState;
     }
 }
