@@ -1,7 +1,7 @@
 public class TransferMoneyTask extends Task {
 
     @Override
-    public void doExecute() {
+    protected void doExecute() {
         System.out.println("Transfer Money");
     }
 }
