@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ade2891-00b6-48d9-8b7d-85173426127c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeCommands.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BlackAndWhiteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompositeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fx/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fx/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ResizeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/addCustomerCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deleteCustomerCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/Problem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/src/BrushTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/src/Canvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/src/EraserTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/src/SelectionTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/src/Tool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/src/ToolType.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2Y6ZZvRQWAfbjrMFTkupk1eNLxw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/media/abdurrahman/Developments/1. Fundamentals/Design Patterns/Design Patterns Part 1/Command Pattern/CompositeCommands/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ade2891-00b6-48d9-8b7d-85173426127c" name="Changes" comment="" />
+      <created>1699848049887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699848049887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
