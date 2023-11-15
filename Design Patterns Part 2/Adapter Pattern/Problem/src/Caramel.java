@@ -1,4 +1,3 @@
-
 public class Caramel {
     public void init() {
         System.out.println("Caramel.init");
