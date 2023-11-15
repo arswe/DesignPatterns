@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93372666-554c-4484-b3cb-cb35e7f46281" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/Command Pattern/CompositeCommands/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns Part 1/Command Pattern/CompositeCommands/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/Problem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/src/BrushTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/src/Canvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/src/EraserTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/src/SelectionTool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/src/Tool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/State Pattern/Problem/src/ToolType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design Patterns Part 1/Visitor Pattern/Problem/src/HtmlNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design Patterns Part 1/Visitor Pattern/Problem/src/HtmlNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bridge Pattern/Problem/src/AdvancedRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bridge Pattern/Problem/src/AdvancedRemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bridge Pattern/Problem/src/MovieRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bridge Pattern/Problem/src/MovieRemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bridge Pattern/Problem/src/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bridge Pattern/Problem/src/RemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bridge Pattern/Problem/src/SonyAdvancedRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bridge Pattern/Problem/src/SonyAdvancedRemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bridge Pattern/Problem/src/SonyRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bridge Pattern/Problem/src/SonyRemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Composite Pattern/Implementation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composite Pattern/Implementation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Composite Pattern/Problem/src/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composite Pattern/Problem/src/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Composite Pattern/Problem/src/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Composite Pattern/Problem/src/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flyweight Pattern/Problem/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flyweight Pattern/Problem/src/Point.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2YDXCxtRjS0irZmoBefsP5vwXMZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93372666-554c-4484-b3cb-cb35e7f46281" name="Changes" comment="" />
+      <created>1700061000985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700061000985</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
