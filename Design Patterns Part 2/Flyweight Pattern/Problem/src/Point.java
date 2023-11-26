@@ -1,8 +1,8 @@
 public class Point {
-    private int x;
-    private int y;
-    private PointType type;
-    private byte[] icon;
+    private int x; // 4 bytes
+    private int y; // 4 bytes
+    private PointType type; // 4 bytes
+    private byte[] icon; // 20 kb -> 20 MB
 
     public Point(int x, int y, PointType type, byte[] icon) {
         this.x = x;
