@@ -3,7 +3,5 @@ public class Main {
         PresentationBuilder presentationBuilder = new PresentationBuilder();
         presentationBuilder.addSlide(new Slide("Slide 1"));
 
-        Presentation presentation = presentationBuilder.build();
-
     }
 }
