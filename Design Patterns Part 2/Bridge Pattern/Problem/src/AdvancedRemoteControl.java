@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class AdvancedRemoteControl {
+public abstract class AdvancedRemoteControl extends RemoteControl {
+    public abstract void setChannel(int number);
 }

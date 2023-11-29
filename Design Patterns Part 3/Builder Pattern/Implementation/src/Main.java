@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        PresentationBuilder presentationBuilder = new PresentationBuilder();
+        presentationBuilder.addSlide(new Slide("Slide 1"));
+
+        Presentation presentation = presentationBuilder.build();
+
     }
 }

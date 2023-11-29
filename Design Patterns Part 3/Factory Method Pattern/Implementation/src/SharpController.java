@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class SharpController {
+public class SharpController extends Controller {
+    @Override
+    protected ViewEngine createViewEngine() {
+        return new SharpViewEngine();
+    }
 }

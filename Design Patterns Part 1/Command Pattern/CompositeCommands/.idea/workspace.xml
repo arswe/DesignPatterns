@@ -5,19 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ade2891-00b6-48d9-8b7d-85173426127c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompositeCommands.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlackAndWhiteCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CompositeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fx/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fx/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ResizeCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/addCustomerCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/deleteCustomerCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../State Pattern/Problem/.idea/aws.xml" beforeDir="false" />

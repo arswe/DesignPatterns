@@ -1,2 +1,2 @@
-public interface TextBox {
+public interface TextBox extends Widget {
 }

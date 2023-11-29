@@ -2,9 +2,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 
-public class ProductsController extends Controller {
+public class ProductsController extends SharpController {
     public void listProducts() {
         Map<String, Object> context = new HashMap<>();
-        render("products.html", context, new MatchaViewEngine());
+        render("products.html", context);
     }
 }
